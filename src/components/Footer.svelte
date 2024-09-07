@@ -11,7 +11,7 @@
         <div class="flex flex-col gap-4">
             <p class="font-bold poppins text-base sm:text-lg">Support</p>
             <a
-                href=""
+                href="https://www.linkedin.com/in/jeevan-lenka"
                 target="_blank"
                 class="cursor-pointer hover:text-indigo-400 duration-200"
             >
@@ -21,7 +21,7 @@
         <div class="flex flex-col gap-4">
             <p class="font-bold poppins text-base sm:text-lg">Research</p>
             <a
-                href=""
+                href="https://www.hubermanlab.com/"
                 target="_blank"
                 class="cursor-pointer hover:text-indigo-400 duration-200"
             >
@@ -31,7 +31,7 @@
         <div class="flex flex-col gap-4">
             <p class="font-bold poppins text-base sm:text-lg">Follow Us</p>
             <a
-                href=""
+                href="https://www.instagram.com/jeevanlenka/"
                 target="_blank"
                 class="cursor-pointer hover:text-indigo-400 duration-200"
             >
@@ -39,7 +39,7 @@
                 Instagram</a
             >
             <a
-                href=""
+                href="https://www.youtube.com/@hubermanlab"
                 target="_blank"
                 class="cursor-pointer hover:text-indigo-400 duration-200"
             >
@@ -47,15 +47,15 @@
                 YouTube</a
             >
             <a
-                href=""
+                href="https://www.linkedin.com/in/jeevan-lenka"
                 target="_blank"
                 class="cursor-pointer hover:text-indigo-400 duration-200"
             >
-                <i class="fa-brands fa-facebook pr-2" />
-                Facebook</a
+                <i class="fa-brands fa-linkedin pr-2" />
+                Linkedin</a
             >
             <a
-                href=""
+                href="https://twitter.com/jee1_____"
                 target="_blank"
                 class="cursor-pointer hover:text-indigo-400 duration-200"
             >
