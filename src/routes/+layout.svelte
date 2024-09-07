@@ -1,5 +1,5 @@
 <script>
-    import "../app.css";
+    import "../App.css";
     import "../components/Footer.svelte"
   </script>
   
